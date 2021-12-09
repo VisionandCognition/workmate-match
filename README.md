@@ -11,11 +11,7 @@ prof. dr. Sander Bohté of the Machine Learning Lab (Centrum Wiskunde en
 Informatica, Amsterdam Science Park).
 
 The project was executed as part of the European Human Brain Project,
-Task 3.7 Architectures and learning methods for hierarchical cognitive processing,
-Objective 3.21 Flexible Cognitive Working Memory. An abstract was submitted
-to Computational and Systems Neuroscience 2022 and a poster presentation on the 
-project was held at the annual meeting of Organization The Graduate School 
-Neurosciences Amsterdam Rotterdam in Woudschoten, Zeist. 
+Task 3.7 Architectures and learning methods for hierarchical cognitive processing. 
 
 ## Project description
 
